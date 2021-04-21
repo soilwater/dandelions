@@ -1,0 +1,3 @@
+.DS_Store
+machine_learning_sliding_window.ipynb
+*.ipynb
